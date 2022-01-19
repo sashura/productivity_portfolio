@@ -1,0 +1,23 @@
+{
+  "name": "productivity_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashura/productivity_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashura/productivity_portfolio/issues"
+  },
+  "homepage": "https://github.com/sashura/productivity_portfolio#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
